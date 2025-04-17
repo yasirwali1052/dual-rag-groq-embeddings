@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+openai
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-groq
+langchain-huggingface
+faiss-cpu==1.7.4
+pypdf
+torch
+transformers==4.28.1
+tensorflow==2.11.0
